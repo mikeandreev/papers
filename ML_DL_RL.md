@@ -1,7 +1,7 @@
-#Numerical AI
+# Numerical AI
 ML, DL, RL and other numerical  approaches to solving AI related  
 
-##Activation functions
+## Activation functions
 
 *  Swish:  f(x) = x * sigmoid(x)    
 [Swish: a Self-Gated Activation Function](https://arxiv.org/abs/1710.05941v1) -- Prajit Ramachandran, Barret Zoph, Quoc V. Le
