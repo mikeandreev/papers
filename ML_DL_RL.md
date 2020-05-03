@@ -20,3 +20,15 @@ scale * alpha * (exp(x) - 1) if x < 0
 [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515)  -- Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter
 Sep 2017
  Initialization : https://www.tensorflow.org/api_docs/python/tf/keras/initializers/lecun_normal 
+
+
+## Свалочка
+
+* Rupesh Kumar Srivastava, Klaus Greff,  and Jürgen Schmidhuber.
+Highway networks
+arXiv preprint arXiv:1505.00387, 2015.
+
+* Barret Zoph, Vijay Vasudevan, Jonathon Shlens, and Quoc V Le. 
+Learning transferable architectures for scalable image recognition. 
+arXiv preprint arXiv:1707.07012, 2017.
+
