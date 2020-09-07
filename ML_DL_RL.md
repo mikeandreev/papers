@@ -21,8 +21,8 @@ scale * alpha * (exp(x) - 1) if x < 0
 Sep 2017
  Initialization : https://www.tensorflow.org/api_docs/python/tf/keras/initializers/lecun_normal 
 
-
-## Свалочка
+# Свалочка
+## Cache L1
 
 * Rupesh Kumar Srivastava, Klaus Greff,  and Jürgen Schmidhuber.
 Highway networks
@@ -31,4 +31,28 @@ arXiv preprint arXiv:1505.00387, 2015.
 * Barret Zoph, Vijay Vasudevan, Jonathon Shlens, and Quoc V Le. 
 Learning transferable architectures for scalable image recognition. 
 arXiv preprint arXiv:1707.07012, 2017.
+
+* https://arxiv.org/abs/1803.09820
+A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay
+Leslie N. Smith
+Apr 2018
+
+## Cache L2
+
+### Texture recognition
+https://arxiv.org/abs/1411.6836
+https://www.robots.ox.ac.uk/~vgg/publications/2015/Cimpoi15a/cimpoi15a.pdf
+https://people.eecs.berkeley.edu/~malik/papers/renningermalik.pdf
+http://haralick.org/journals/TexturalFeatures.pdf
+
+https://github.com/mcimpoi/deep-fbanks
+
+
+http://vision.ucla.edu/~doretto/publications/saisanDWS01cvpr.pdf
+http://cat.cvc.uab.es/~joost/papers/caip2013.pdf
+
+
+
+https://arxiv.org/abs/1507.02620
+https://www.robots.ox.ac.uk/~vgg/publications/2015/Cimpoi15/cimpoi15.pdf
 

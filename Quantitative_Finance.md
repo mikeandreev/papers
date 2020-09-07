@@ -12,4 +12,6 @@ https://www.cs.princeton.edu/courses/archive/fall09/cos323/papers/black_scholes7
 
 ## Links
 
+* https://www.nes.ru/MiF-uchplan1819?lang=ru
+
 * https://quant.stackexchange.com/questions/38886/what-are-the-quantitative-finance-papers-that-we-should-all-have-in-our-shelves
